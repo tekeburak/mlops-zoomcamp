@@ -236,4 +236,9 @@ pyrightconfig.json
 .history
 .ionide
 
+# Ignore folders and files
+artifacts/
+mlruns/
+*.pkl
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,jupyternotebooks
